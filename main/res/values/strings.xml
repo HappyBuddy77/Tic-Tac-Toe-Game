@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TicTacToe App - Mary Nguyen 218227967</string>
+    <string-array name="Player">
+        <item>PLAYER X</item>
+        <item>PLAYER O</item>
+    </string-array>
+</resources>
